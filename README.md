@@ -38,35 +38,7 @@ This feature allows fans to view real-time animated shots on a 3D basketball cou
 ---
 
 ## 📂 Project Structure
-com.app.basketballshotviewer
-
-│
-├── home/
-│ ├── data/
-│ ├── domain/
-│ ├── view/
-│
-├── shotchart/
-│ ├── constant/
-│ ├── data/
-│ │ ├── core/
-│ │ ├── datasource/
-│ │ ├── repo/
-│ │
-│ ├── domain/
-│ │ ├── model/
-│ │ ├── usecase/
-│ │
-│ ├── view/
-│ │ ├── di/
-│ │ ├── state/
-│ │ ├── ui/
-│ │
-│ ├── render/
-│ │ ├── GlView/
-│ │ ├── CameraController/
-│ │ ├── Animator/
-│ │ ├── Renderer/
+![Project Structure](Users/savinsharma/Desktop/projectstructure.png)
 
 ---
 
