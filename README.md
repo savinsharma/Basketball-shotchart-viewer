@@ -51,13 +51,16 @@ com.app.basketballshotviewer
 │ │ ├── core/
 │ │ ├── datasource/
 │ │ ├── repo/
+│ │
 │ ├── domain/
 │ │ ├── model/
 │ │ ├── usecase/
+│ │
 │ ├── view/
 │ │ ├── di/
 │ │ ├── state/
 │ │ ├── ui/
+│ │
 │ ├── render/
 │ │ ├── GlView/
 │ │ ├── CameraController/
